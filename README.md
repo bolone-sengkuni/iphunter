@@ -7,7 +7,7 @@ Original script by Abi Darwish ([@Abi_Darwish](https://t.me/Abi_Darwish))
 
 1. Download script from GitHub.
 ```bash
-busybox wget -O iphunter.sh "https://www.voidvpn.top/iphunter"
+busybox wget -O iphunter.sh "https://github.com/iriszz-official/iphunter/raw/main/iphunter.sh"
 ```
 2. Run the script.
 ```bash
