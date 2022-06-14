@@ -5,9 +5,9 @@ Original script by Abi Darwish ([@Abi_Darwish](https://t.me/Abi_Darwish))
 
 ## How to Use
 
-1. Download script from GitHub.
+1. Download script.
 ```bash
-busybox wget -O iphunter.sh "https://github.com/iriszz-official/iphunter/raw/main/iphunter.sh"
+busybox wget -O iphunter.sh "http://ovh.voidvpn.top/iphunter.sh"
 ```
 2. Run the script.
 ```bash
