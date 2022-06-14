@@ -37,7 +37,6 @@ while true; do
     HUNT_IP=$(echo $publicIP | busybox cut -d. -f1,2)
     if [[ ${HUNT_IP} == ${TARGET_IP} ]]; then
         echo "Successfully connected to ${publicIP}."
-        echo "You can turn on VPN now."
         echo ""
         exit 0
     fi
